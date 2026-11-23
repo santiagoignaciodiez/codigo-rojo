@@ -28,7 +28,7 @@ gcc codigoRojo.c -o codigoRojo
 ## Archivos
 
 - `codigo/`: el programa (`codigoRojo.c`) y las bibliotecas de los TAD.
-- `docs/`: informe, documentación del código y flyer.
+- `docs/`: informe y flyer.
 
 ## Integrantes
 
